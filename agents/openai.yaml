@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文拆解与代码精读"
+  short_description: "围绕真实数据、张量形状与关键代码，以连贯对话读懂模型和论文"
+  default_prompt: "使用 $paper-to-code 带我精读这篇论文，从具体样本、输入输出、关键层和 shape 开始，结合官方代码讲清训练、推理与设计取舍。"
